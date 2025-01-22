@@ -1,0 +1,7 @@
+
+train: ../H_DATA/train/images
+val: ../H_DATA/valid/images
+
+
+nc: 9
+names: ['green','red','yellow','people','car','30','50','crosswalk','Childrenzone']
