@@ -9,7 +9,7 @@ import xml.etree.ElementTree as ET
 
 port = '/dev/ttyACM0'
 baud_rate = 9600
-ser = None  # 시리얼 포트 객체 초기화하기
+ser = None  # 시리얼 포트 객체 초기화
 
 # 날씨 API로부터 데이터 가져오기
 def get_weather():
