@@ -1,0 +1,5 @@
+>Line Detection
+>https://www.youtube.com/watch?v=Ap_QmALgXLc&list=PLRz3iduO34fG7uCUVXp2T_nbAjkdo0XnF
+
+>YOLO
+>https://www.youtube.com/watch?v=2-qXVjHOrG8&list=PLRz3iduO34fG7uCUVXp2T_nbAjkdo0XnF&index=2
